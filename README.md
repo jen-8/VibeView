@@ -7,6 +7,8 @@ TODO: Guide users through getting your code up and running on their own system. 
 2.	Software dependencies
 3.	Latest releases
 4.	API references
+      youtube API key, OpenAI API key, LinkedIn username and password go into a .env file in Backend
+      Firebase private key goes into /Backend/key/ folder
 
 # Build and Test
 TODO: Describe and show how to build your code and run the tests. 
