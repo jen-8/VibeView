@@ -1,0 +1,111 @@
+:root {
+    --background: #f4f7fd;
+    --primary: #526D82;
+    --primary2: #DDE6ED;
+    --font: #27374D;
+    --positive: #6CA870;
+    --neutral: #E6B655;
+    --negative: #D57A7A;
+    /* --background: #DDE6ED;
+    --primary2: #9DB2BF;
+    --primary: #526D82;
+    --font: #27374D; */
+} 
+
+.content {
+    width: 100%;
+}
+
+.content--header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header--title--container {
+    display: flex;
+    flex-direction: column;
+}
+
+.header--title {
+    color: var(--primary);
+}
+
+
+.header--activity {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+
+.start--button {
+    background-color: var(--primary2);
+    padding: 12px;
+    border-radius: 10px;
+    outline: 0;
+    border: 0;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 0.3s ease-in-out;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.start--button:hover {
+    background-color: var(--primary);
+    color: var(--background);
+}
+
+.header--cards {
+    display: flex;
+    flex-direction: column;
+}
+
+.chart--posts {
+    display: flex;
+    /* flex-direction: row; */
+}
+
+.topic--recommendations {
+    display: flex;
+    flex-direction: row;
+}
+
+/* card container */
+.statscard--container {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+.card {
+    flex: 1;
+    background: var(--primary2);
+    padding: 20px;
+    border-radius: 10px;
+    display: flex;
+    align-items: left;
+    flex-direction: column;
+    gap: 20px;
+    transition: 0.5s ease-in-out;
+}
+
+.card--text{
+    align-items: left;
+    font-size: 1.2rem;
+    display: flex;
+    justify-content: left;
+    width: 100%;
+}
+
+
+
+.card--title {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

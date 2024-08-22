@@ -1,0 +1,117 @@
+[
+    {
+        "sentiment": "negative",
+        "numPosts": 1,
+        "topic": "a"
+    },
+    {
+        "sentiment": "negative",
+        "numPosts": 1,
+        "topic": "a"
+    },
+    {
+        "sentiment": "negative",
+        "numPosts": 0,
+        "topic": "b"
+    },
+    {
+        "sentiment": "negative",
+        "numPosts": 3,
+        "topic": "c"
+    },
+    {
+        "sentiment": "negative",
+        "numPosts": 5,
+        "topic": "d"
+    },
+    {
+        "sentiment": "negative",
+        "numPosts": 0,
+        "topic": "a"
+    },
+    {
+        "sentiment": "negative",
+        "numPosts": 7,
+        "topic": "h"
+    },
+    {
+        "sentiment": "negative",
+        "numPosts": 3,
+        "topic": "s"
+    },
+    {
+        "sentiment": "negative",
+        "numPosts": 5,
+        "topic": "a"
+    },
+    {
+        "sentiment": "negative",
+        "numPosts": 4,
+        "topic": "b"
+    },
+    {
+        "sentiment": "negative",
+        "numPosts": 6,
+        "topic": "c"
+    },
+    {
+        "sentiment": "negative",
+        "numPosts": 6,
+        "topic": "d"
+    },
+    {
+        "sentiment": "neutral",
+        "numPosts": 5,
+        "topic": "e"
+    },
+    {
+        "sentiment": "neutral",
+        "numPosts": 2,
+        "topic": "e"
+    },
+    {
+        "sentiment": "neutral",
+        "numPosts": 6,
+        "topic": "h"
+    },
+    {
+        "sentiment": "positive",
+        "numPosts": 6,
+        "topic": "h"
+    },
+    {
+        "sentiment": "positive",
+        "numPosts": 2,
+        "topic": "h"
+    },
+    {
+        "sentiment": "positive",
+        "numPosts": 6,
+        "topic": "s"
+    },
+    {
+        "sentiment": "positive",
+        "numPosts": 3,
+        "topic": "a"
+    },
+    {
+        "sentiment": "positive",
+        "numPosts": 6,
+        "topic": "a"
+    },
+    {
+        "sentiment": "positive",
+        "numPosts": 0,
+        "topic": "a"
+    },
+    {
+        "sentiment": "positive",
+        "numPosts": 3,
+        "topic": "a"
+    },
+    {
+        "sentiment": "positive",
+        "numPosts": 0,
+        "topic": "a"
+    }
+]

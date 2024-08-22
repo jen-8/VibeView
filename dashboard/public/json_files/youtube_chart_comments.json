@@ -1,0 +1,70 @@
+[
+    {
+        "numLikes": 4,
+        "videoTopic": "Shrek"
+    },
+    {
+        "numLikes": 6,
+        "videoTopic": "Lego Movie"
+    },
+    {
+        "numLikes": 6,
+        "videoTopic": "Harry Potter"
+    },
+    {
+        "numLikes": 23,
+        "videoTopic": "Captain America"
+    },
+    {
+        "numLikes": 43,
+        "videoTopic": "Shrek 2"
+    },
+    {
+        "numLikes": 2,
+        "videoTopic": "Avatar"
+    },
+    {
+        "numLikes": 7,
+        "videoTopic": "Lord of the Rings"
+    },
+    {
+        "numLikes": 29,
+        "videoTopic": "The Hobbit"
+    },
+    {
+        "numLikes": 32,
+        "videoTopic": "Iron Man"
+    },
+    {
+        "numLikes": 45,
+        "videoTopic": "Iron Man 2"
+    },
+    {
+        "numLikes": 83,
+        "videoTopic": "Iron Man 3"
+    },
+    {
+        "numLikes": 0,
+        "videoTopic": "The Lion King"
+    },
+    {
+        "numLikes": 90,
+        "videoTopic": "Frozen"
+    },
+    {
+        "numLikes": 43,
+        "videoTopic": "Frozen 2"
+    },
+    {
+        "numLikes": 54,
+        "videoTopic": "Moana"
+    },
+    {
+        "numLikes": 53,
+        "videoTopic": "The Little Mermaid"
+    },
+    {
+        "numLikes": 52,
+        "videoTopic": "Beauty and the Beast"
+    }
+]

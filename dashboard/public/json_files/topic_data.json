@@ -1,0 +1,74 @@
+[
+    {
+        "keyword": "The Lego Movie",
+        "sentiment": "Positive"
+    },
+    {
+        "keyword": "Shrek",
+        "sentiment": "Negative"
+    },
+    {
+        "keyword": "Captain America: The First Avenger",
+        "sentiment": "Positive"
+    },
+    {
+        "keyword": "Avengers Endgame",
+        "sentiment": "Positive"
+    },
+    {
+        "keyword": "Shrek 2",
+        "sentiment": "Neutral"
+    },
+    {
+        "keyword": "Harry Potter and the Sorcerer\"s Stone",
+        "sentiment": "Positive"
+    },
+    {
+        "keyword": "Forrest Gump",
+        "sentiment": "Positive"
+    },
+    {
+        "keyword": "Avatar",
+        "sentiment": "Negative"
+    },
+    {
+        "keyword": "Harry Potter and the Deathly Hallows Part 2",
+        "sentiment": "Negative"
+    },
+    {
+        "keyword": "Spiderman 2",
+        "sentiment": "Neutral"
+    },  
+    {
+        "keyword": "Harry Potter and the Deathly Hallows Part 2",
+        "sentiment": "Negative"
+    },
+    {
+        "keyword": "Spiderman 2",
+        "sentiment": "Neutral"
+    },
+    {
+        "keyword": "Spiderman 2",
+        "sentiment": "Neutral"
+    },  
+    {
+        "keyword": "Harry Potter and the Deathly Hallows Part 2",
+        "sentiment": "Negative"
+    },
+    {
+        "keyword": "Spiderman 2",
+        "sentiment": "Neutral"
+    },
+    {
+        "keyword": "Spiderman 2",
+        "sentiment": "Neutral"
+    },  
+    {
+        "keyword": "Harry Potter and the Deathly Hallows Part 2",
+        "sentiment": "Negative"
+    },
+    {
+        "keyword": "Spiderman 2",
+        "sentiment": "Neutral"
+    }
+]

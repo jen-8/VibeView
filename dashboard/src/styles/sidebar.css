@@ -1,0 +1,50 @@
+.menu{
+    display: flex;
+    flex-direction: column;
+    /* rem is root element so 2.3rem is 2.3 * size of root element */
+    gap: 2.0rem;
+    /* vw is viewport width */
+    height: 80vw;
+}
+
+.logo{
+    text-align: center;
+    padding: 20px;
+    color: var(--font);
+    align-items: center;
+    display: flex;
+    gap: 10px;
+}
+
+.logo .icon{
+    font-size: 2.0rem;
+}
+
+.menu--list{
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+}
+
+.menu--list .item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 1.1rem;
+    text-decoration: none;
+    font-weight: 600;
+    padding: 20px;
+    border-radius: 10px;
+    transition: 0.3s ease-in-out;
+    color: var(--font);
+}
+
+.menu--list .active{
+    background: var(--font);
+    color: var(--background) !important;
+}
+
+.menu--list .item:hover{
+    background: var(--font);
+    color: var(--background) !important;
+}

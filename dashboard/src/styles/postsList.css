@@ -1,0 +1,117 @@
+.posts--list {
+    display: flex;
+    margin-top: 30px;
+    width: 100%;
+    background-color: var(--primary2);
+    border-radius: 10px;
+    flex-direction: column;
+    /* overflow-y: scroll; */
+    height: 450px;
+    padding: 10px;
+}
+
+.list--header {
+    display: flex;
+    width: 100%;
+    padding: 10px;
+    font-size: 20px;
+    /* margin: 2rem, 0 0 0; */
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.list--columns {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+.tags {
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+}
+
+.post--tag {
+    display: flex;
+    padding: 5px;
+    background-color: white;
+    border-radius: 10px;
+    font-size: 15px;
+}
+
+.list--container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 5px;
+    margin-left: 5px;
+}
+
+.list {
+    display: flex;
+    padding-right: 10px;
+    align-items: left;
+    /* justify-content: space-between; */
+    transition: 0.3s ease-in-out;
+    font-size: 15px;
+}
+
+.videos--list {
+    display: flex;
+    margin-top: 30px;
+    /* margin-left: 20px; */
+    width: 65%;
+    background-color: var(--background);
+    border-radius: 10px;
+    flex-direction: column;
+    overflow-y: scroll;
+    height: 450px;
+}
+
+.table {
+    padding-left: 10px;
+}
+
+.table--header {
+    align-items: left;
+    justify-content: left;
+    text-align: left;
+    padding: 5px;
+}
+
+.table .text{
+    padding-left: 5px;
+    padding-bottom: 5px;
+    justify-content: left;
+    align-items: left;
+    text-align: left;
+}
+
+.setting {
+    display: flex;
+    margin-top: 30px;
+    padding: 12px;
+    background-color: #dde6ed;
+    border-radius: 10px;
+    flex-direction: column;
+}
+
+.setting--button {
+    background-color: #dde6ed;
+    padding: 12px;
+    width: 100%;
+    border-radius: 10px;
+    outline: 0;
+    border: 0;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 0.3s ease-in-out;
+    font-size: 15px;
+    font-weight: 600;
+}

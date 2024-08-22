@@ -1,0 +1,9 @@
+.recommendations--container {
+    display: flex;
+    gap: 20px;
+    width: 100%;
+    margin-top: 2rem;
+    /* padding: 5px; */
+    /* margin-left: 1rem; */
+    flex-direction: row;
+}
